@@ -17,6 +17,8 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+  - alfa
+  - beta
 
 1. Numbered
 2. List
