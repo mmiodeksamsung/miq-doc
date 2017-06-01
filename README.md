@@ -26,7 +26,26 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
 ```
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+
+> tere
+> fere
+
+### Tasklist
+
+- [x] Done
+- [ ] Todo
+- [ ] What is the state of this task?
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
