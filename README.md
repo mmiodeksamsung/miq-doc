@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-See [subpage.md] and check posibilities.
+See [subpage.md](subpage.md) and check posibilities.
 
 You can use the [editor on GitHub](https://github.com/mmiodeksamsung/miq-doc/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
